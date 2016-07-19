@@ -1,4 +1,4 @@
-#Liberated Emby Server - Fixed w/ free patches from https://github.com/AshleyYakeley/Emby
+#Liberated Emby Server - Fixed w/ free patches from [AshleyYakeley](https://github.com/AshleyYakeley/Emby)
 ============
 ##Prerequisites:
 1. Install the version from the Emby Website.
